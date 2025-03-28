@@ -33,13 +33,13 @@
 
 rock-paper-scissors/
 ├── index.html
-├── styles.css
+├── style.css
 ├── script.js
 └── README.md
 
 
 * `index.html`: The main HTML file containing the game's structure.
-* `styles.css`: The CSS file for styling the game.
+* `style.css`: The CSS file for styling the game.
 * `script.js`: The JavaScript file containing the game's logic.
 * `README.md`: The file you're currently reading.
 
